@@ -1,0 +1,53 @@
+body {
+font-family:"Open Sans",'Digital-7 Mono', 'Digital-7';
+background-color: black;
+background-image: url("Background%20visual.png");
+background-repeat: no-repeat;
+background-position: left bottom;
+background-size: contain;
+}
+#shod{
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width:150px;
+            height: 30px;
+        }
+        #placeholder{
+          margin-left: 350px;
+          font-family: sans-serif;
+          color: #D0D0CE;
+          font-size: 50px;
+          }
+        p{
+          font-family: sans-serif;
+          color: #FFA500;
+          font-size: 34px;
+        text-align: center;
+        }
+        #emaillabel{
+            font-family: sans-serif;
+            color: #D0D0CE;
+            font-size: 17px;
+            float: left;
+        }
+ 
+        #userlabel{
+            font-family: sans-serif;
+            color: #D0D0CE;
+            font-size: 17px;
+            float: left;
+        }
+        #login{
+            background-color: #00ABAB;
+            height: 50px;
+            width: 100%;
+            border-radius: 12px;
+            border: none;
+            align-content: center;
+        }
+#hod{
+    height: 200px;
+    width: 650px;
+}
+}
